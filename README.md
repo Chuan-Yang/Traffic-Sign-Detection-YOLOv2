@@ -32,10 +32,10 @@ Change "threshold" and "gpu" according to your situation.
 
 # Run the program
     1. To run on a video file
-    python runYOLO.py -v $filename
+    python runYolo.py -v $filename
 
     2. To run on images in a folder
-    python runYOLO.py -i $foldername
+    python runYolo.py -i $foldername
 
     3. To run on a real-time camera
-    python runYOLO.py -v camera
+    python runYolo.py -v camera
